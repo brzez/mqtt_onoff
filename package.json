@@ -1,0 +1,25 @@
+{
+  "name": "onoff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "mqtt": "^2.18.8",
+    "serialport": "^7.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brzez/mqtt_onoff.git"
+  },
+  "author": "pawel brzezinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brzez/mqtt_onoff/issues"
+  },
+  "homepage": "https://github.com/brzez/mqtt_onoff#readme"
+}
